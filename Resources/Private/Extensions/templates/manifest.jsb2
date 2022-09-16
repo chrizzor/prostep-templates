@@ -1,0 +1,22 @@
+{
+	"projectName": "templates",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "templates CSS",
+		"file": "templates.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "templates JS",
+		"file": "templates.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
